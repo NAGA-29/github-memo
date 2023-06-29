@@ -64,6 +64,7 @@ cd <ディレクトリのパス>
 git init
 
 # 管理下としたディレクトリは、どのリポジトリを管理していくのか登録する
+# 先程作成したリポジトリを指定する
 git remote add origin git@github.com:<githubのユーザー名>/<最初に作成したリポジトリの名前>.git
 
 # 適当に空のindex.htmlを作成(
